@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
 docker (
-        COMPONENT             : 'mongodb',
+        COMPONENT             : 'mysql',
         PROJECT_NAME          : "RoboShop"
 )
