@@ -1,4 +1,6 @@
-
+Dockerfile
+Jenkinsfile
+run.sh
 # MySQL 
 
 MySQL 5.7 is not compitable with Ubuntu 20.
